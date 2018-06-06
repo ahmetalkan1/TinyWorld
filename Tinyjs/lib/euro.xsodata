@@ -1,0 +1,3 @@
+service{
+	"TinyWorld.TinyHDB::myview" as "euro" keys generate local "ID";
+}
